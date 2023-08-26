@@ -1,0 +1,15 @@
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\bin\Debug\net6.0\FactoryMethodModel.exe
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\bin\Debug\net6.0\FactoryMethodModel.deps.json
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\bin\Debug\net6.0\FactoryMethodModel.runtimeconfig.json
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\bin\Debug\net6.0\FactoryMethodModel.dll
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\bin\Debug\net6.0\FactoryMethodModel.pdb
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\obj\Debug\net6.0\FactoryMethodModel.csproj.AssemblyReference.cache
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\obj\Debug\net6.0\FactoryMethodModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\obj\Debug\net6.0\FactoryMethodModel.AssemblyInfoInputs.cache
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\obj\Debug\net6.0\FactoryMethodModel.AssemblyInfo.cs
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\obj\Debug\net6.0\FactoryMethodModel.csproj.CoreCompileInputs.cache
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\obj\Debug\net6.0\FactoryMethodModel.dll
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\obj\Debug\net6.0\refint\FactoryMethodModel.dll
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\obj\Debug\net6.0\FactoryMethodModel.pdb
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\obj\Debug\net6.0\FactoryMethodModel.genruntimeconfig.cache
+E:\GitProject\DesignModel\DesignModel\FactoryModel\FactoryMethodModel\obj\Debug\net6.0\ref\FactoryMethodModel.dll
