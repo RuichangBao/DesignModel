@@ -1,0 +1,15 @@
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\bin\Debug\net6.0\SimpleFactoryModel.exe
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\bin\Debug\net6.0\SimpleFactoryModel.deps.json
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\bin\Debug\net6.0\SimpleFactoryModel.runtimeconfig.json
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\bin\Debug\net6.0\SimpleFactoryModel.dll
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\bin\Debug\net6.0\SimpleFactoryModel.pdb
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\obj\Debug\net6.0\SimpleFactoryModel.csproj.AssemblyReference.cache
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\obj\Debug\net6.0\SimpleFactoryModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\obj\Debug\net6.0\SimpleFactoryModel.AssemblyInfoInputs.cache
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\obj\Debug\net6.0\SimpleFactoryModel.AssemblyInfo.cs
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\obj\Debug\net6.0\SimpleFactoryModel.csproj.CoreCompileInputs.cache
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\obj\Debug\net6.0\SimpleFactoryModel.dll
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\obj\Debug\net6.0\refint\SimpleFactoryModel.dll
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\obj\Debug\net6.0\SimpleFactoryModel.pdb
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\obj\Debug\net6.0\SimpleFactoryModel.genruntimeconfig.cache
+E:\GitProject\DesignModel\DesignModel\SimpleFactoryModel\obj\Debug\net6.0\ref\SimpleFactoryModel.dll

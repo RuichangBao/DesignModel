@@ -1,0 +1,15 @@
+E:\GitProject\DesignModel\DesignModel\SingletonModel\bin\Debug\net6.0\SingletonModel.exe
+E:\GitProject\DesignModel\DesignModel\SingletonModel\bin\Debug\net6.0\SingletonModel.deps.json
+E:\GitProject\DesignModel\DesignModel\SingletonModel\bin\Debug\net6.0\SingletonModel.runtimeconfig.json
+E:\GitProject\DesignModel\DesignModel\SingletonModel\bin\Debug\net6.0\SingletonModel.dll
+E:\GitProject\DesignModel\DesignModel\SingletonModel\bin\Debug\net6.0\SingletonModel.pdb
+E:\GitProject\DesignModel\DesignModel\SingletonModel\obj\Debug\net6.0\SingletonModel.csproj.AssemblyReference.cache
+E:\GitProject\DesignModel\DesignModel\SingletonModel\obj\Debug\net6.0\SingletonModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitProject\DesignModel\DesignModel\SingletonModel\obj\Debug\net6.0\SingletonModel.AssemblyInfoInputs.cache
+E:\GitProject\DesignModel\DesignModel\SingletonModel\obj\Debug\net6.0\SingletonModel.AssemblyInfo.cs
+E:\GitProject\DesignModel\DesignModel\SingletonModel\obj\Debug\net6.0\SingletonModel.csproj.CoreCompileInputs.cache
+E:\GitProject\DesignModel\DesignModel\SingletonModel\obj\Debug\net6.0\SingletonModel.dll
+E:\GitProject\DesignModel\DesignModel\SingletonModel\obj\Debug\net6.0\refint\SingletonModel.dll
+E:\GitProject\DesignModel\DesignModel\SingletonModel\obj\Debug\net6.0\SingletonModel.pdb
+E:\GitProject\DesignModel\DesignModel\SingletonModel\obj\Debug\net6.0\SingletonModel.genruntimeconfig.cache
+E:\GitProject\DesignModel\DesignModel\SingletonModel\obj\Debug\net6.0\ref\SingletonModel.dll
