@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonModel", "SingletonModel\SingletonModel.csproj", "{244D5DB0-0E7C-461E-B61E-26A9208B9E46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonModel", "SingletonModel\SingletonModel.csproj", "{244D5DB0-0E7C-461E-B61E-26A9208B9E46}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoryModel", "FactoryModel", "{031E2A9E-2B5B-4E15-B2B0-CF079252D5D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryModel", "FactoryModel\AbstractFactoryModel\AbstractFactoryModel.csproj", "{2518FE0F-8546-481F-8FF2-33B32EE443C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryModel", "FactoryModel\AbstractFactoryModel\AbstractFactoryModel.csproj", "{2518FE0F-8546-481F-8FF2-33B32EE443C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodModel", "FactoryModel\FactoryMethodModel\FactoryMethodModel.csproj", "{13C6C0F7-FC75-49D1-B6B1-799126617DD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethodModel", "FactoryModel\FactoryMethodModel\FactoryMethodModel.csproj", "{13C6C0F7-FC75-49D1-B6B1-799126617DD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactoryModel", "FactoryModel\SimpleFactoryModel\SimpleFactoryModel.csproj", "{1643D2B3-94E5-4421-B910-A0F8EF452FEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleFactoryModel", "FactoryModel\SimpleFactoryModel\SimpleFactoryModel.csproj", "{1643D2B3-94E5-4421-B910-A0F8EF452FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyModel", "StrategyModel\StrategyModel.csproj", "{DC323268-9E45-4E85-8F38-89F1613246DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverModel", "ObserverModel\ObserverModel.csproj", "{2E15567B-16DB-4DAB-BFD5-7149B8660FD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +39,14 @@ Global
 		{1643D2B3-94E5-4421-B910-A0F8EF452FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1643D2B3-94E5-4421-B910-A0F8EF452FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1643D2B3-94E5-4421-B910-A0F8EF452FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC323268-9E45-4E85-8F38-89F1613246DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC323268-9E45-4E85-8F38-89F1613246DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC323268-9E45-4E85-8F38-89F1613246DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC323268-9E45-4E85-8F38-89F1613246DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E15567B-16DB-4DAB-BFD5-7149B8660FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E15567B-16DB-4DAB-BFD5-7149B8660FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E15567B-16DB-4DAB-BFD5-7149B8660FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E15567B-16DB-4DAB-BFD5-7149B8660FD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

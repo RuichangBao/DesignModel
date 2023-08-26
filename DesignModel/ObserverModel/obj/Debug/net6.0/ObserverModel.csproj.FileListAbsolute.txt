@@ -1,0 +1,15 @@
+E:\GitProject\DesignModel\DesignModel\ObserverModel\bin\Debug\net6.0\ObserverModel.exe
+E:\GitProject\DesignModel\DesignModel\ObserverModel\bin\Debug\net6.0\ObserverModel.deps.json
+E:\GitProject\DesignModel\DesignModel\ObserverModel\bin\Debug\net6.0\ObserverModel.runtimeconfig.json
+E:\GitProject\DesignModel\DesignModel\ObserverModel\bin\Debug\net6.0\ObserverModel.dll
+E:\GitProject\DesignModel\DesignModel\ObserverModel\bin\Debug\net6.0\ObserverModel.pdb
+E:\GitProject\DesignModel\DesignModel\ObserverModel\obj\Debug\net6.0\ObserverModel.csproj.AssemblyReference.cache
+E:\GitProject\DesignModel\DesignModel\ObserverModel\obj\Debug\net6.0\ObserverModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitProject\DesignModel\DesignModel\ObserverModel\obj\Debug\net6.0\ObserverModel.AssemblyInfoInputs.cache
+E:\GitProject\DesignModel\DesignModel\ObserverModel\obj\Debug\net6.0\ObserverModel.AssemblyInfo.cs
+E:\GitProject\DesignModel\DesignModel\ObserverModel\obj\Debug\net6.0\ObserverModel.csproj.CoreCompileInputs.cache
+E:\GitProject\DesignModel\DesignModel\ObserverModel\obj\Debug\net6.0\ObserverModel.dll
+E:\GitProject\DesignModel\DesignModel\ObserverModel\obj\Debug\net6.0\refint\ObserverModel.dll
+E:\GitProject\DesignModel\DesignModel\ObserverModel\obj\Debug\net6.0\ObserverModel.pdb
+E:\GitProject\DesignModel\DesignModel\ObserverModel\obj\Debug\net6.0\ObserverModel.genruntimeconfig.cache
+E:\GitProject\DesignModel\DesignModel\ObserverModel\obj\Debug\net6.0\ref\ObserverModel.dll
