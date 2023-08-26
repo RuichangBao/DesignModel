@@ -1,0 +1,15 @@
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\bin\Debug\net6.0\AbstractFactoryModel.exe
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\bin\Debug\net6.0\AbstractFactoryModel.deps.json
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\bin\Debug\net6.0\AbstractFactoryModel.runtimeconfig.json
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\bin\Debug\net6.0\AbstractFactoryModel.dll
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\bin\Debug\net6.0\AbstractFactoryModel.pdb
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\obj\Debug\net6.0\AbstractFactoryModel.csproj.AssemblyReference.cache
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\obj\Debug\net6.0\AbstractFactoryModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\obj\Debug\net6.0\AbstractFactoryModel.AssemblyInfoInputs.cache
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\obj\Debug\net6.0\AbstractFactoryModel.AssemblyInfo.cs
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\obj\Debug\net6.0\AbstractFactoryModel.csproj.CoreCompileInputs.cache
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\obj\Debug\net6.0\AbstractFactoryModel.dll
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\obj\Debug\net6.0\refint\AbstractFactoryModel.dll
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\obj\Debug\net6.0\AbstractFactoryModel.pdb
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\obj\Debug\net6.0\AbstractFactoryModel.genruntimeconfig.cache
+E:\GitProject\DesignModel\DesignModel\AbstractFactoryModel\obj\Debug\net6.0\ref\AbstractFactoryModel.dll

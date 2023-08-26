@@ -22,9 +22,9 @@ namespace SimpleFactoryModel
             switch (eSimpleFactoryType)
             {
                 case ESimpleFactoryType.SimpleFactoryA:
-                    return new SimpleFactoryA();
+                    return new ProductA();
                 case ESimpleFactoryType.SimpleFactoryB:
-                    return new SimpleFactoryB();
+                    return new ProductB();
                 default:
                     return null;
             }

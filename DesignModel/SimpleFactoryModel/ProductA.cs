@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace SimpleFactoryModel
 {
-    internal class SimpleFactoryB : ISimpleFactory
+    internal class ProductA : ISimpleFactory
     {
         public void Print()
         {
-            Console.WriteLine("SimpleFactoryB Print");
+            Console.WriteLine("ProductA Print");
         }
     }
 }
