@@ -5,10 +5,15 @@
         static void Main(string[] args)
         {
             FactoryMethodA factoryMethodA = new FactoryMethodA();
-            factoryMethodA.Create().Print();
+            ProductA productA =  factoryMethodA.Create() as ProductA;
+            if (productA != null)
+                productA.Print();
 
             FactoryMethodB factoryMethodB = new FactoryMethodB();
-            factoryMethodB.Create().Print();
+            ProductB productB = factoryMethodB.Create() as ProductB;
+            if (productB != null)
+                productB.Print();
+
             Console.WriteLine("工厂方法模式");
             
         }

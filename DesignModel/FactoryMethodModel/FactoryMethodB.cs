@@ -6,16 +6,15 @@ using System.Threading.Tasks;
 
 namespace FactoryMethodModel
 {
+    /// <summary>
+    /// 工厂B
+    /// </summary>
     internal class FactoryMethodB : FactoryMethod
     {
         
-        public override FactoryMethod Create()
+        public override IProduct Create()
         {
-            return new FactoryMethodB();
-        }
-        public override void Print()
-        {
-            Console.WriteLine("FactoryMethodB Print");
+            return new ProductB();
         }
     }
 }

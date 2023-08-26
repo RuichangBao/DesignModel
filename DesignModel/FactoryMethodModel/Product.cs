@@ -7,13 +7,10 @@ using System.Threading.Tasks;
 namespace FactoryMethodModel
 {
     /// <summary>
-    /// 工厂方法
+    /// 产品基类
     /// </summary>
-    internal abstract class FactoryMethod
+    internal interface IProduct
     {
-
-        public abstract IProduct Create();
-
-
+        void Print();
     }
 }
