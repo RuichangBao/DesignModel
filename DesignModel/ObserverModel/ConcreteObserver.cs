@@ -9,9 +9,12 @@ namespace ObserverModel
     /// <summary>
     /// 具体观察者
     /// </summary>
-    public class ConcreteObserver:IObserver
+    public class ConcreteObserver : IObserver
     {
         private string name;
+        /// <summary>
+        /// 真实项目中可以通过单例直接获取 而不用传进来这种方式
+        /// </summary>
         private ConcreteSubject subject;
 
         public ConcreteObserver(string name, ConcreteSubject subject)

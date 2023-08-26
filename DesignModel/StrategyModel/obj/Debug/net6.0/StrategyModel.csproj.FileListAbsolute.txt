@@ -1,0 +1,15 @@
+E:\GitProject\DesignModel\DesignModel\StrategyModel\bin\Debug\net6.0\StrategyModel.exe
+E:\GitProject\DesignModel\DesignModel\StrategyModel\bin\Debug\net6.0\StrategyModel.deps.json
+E:\GitProject\DesignModel\DesignModel\StrategyModel\bin\Debug\net6.0\StrategyModel.runtimeconfig.json
+E:\GitProject\DesignModel\DesignModel\StrategyModel\bin\Debug\net6.0\StrategyModel.dll
+E:\GitProject\DesignModel\DesignModel\StrategyModel\bin\Debug\net6.0\StrategyModel.pdb
+E:\GitProject\DesignModel\DesignModel\StrategyModel\obj\Debug\net6.0\StrategyModel.csproj.AssemblyReference.cache
+E:\GitProject\DesignModel\DesignModel\StrategyModel\obj\Debug\net6.0\StrategyModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitProject\DesignModel\DesignModel\StrategyModel\obj\Debug\net6.0\StrategyModel.AssemblyInfoInputs.cache
+E:\GitProject\DesignModel\DesignModel\StrategyModel\obj\Debug\net6.0\StrategyModel.AssemblyInfo.cs
+E:\GitProject\DesignModel\DesignModel\StrategyModel\obj\Debug\net6.0\StrategyModel.csproj.CoreCompileInputs.cache
+E:\GitProject\DesignModel\DesignModel\StrategyModel\obj\Debug\net6.0\StrategyModel.dll
+E:\GitProject\DesignModel\DesignModel\StrategyModel\obj\Debug\net6.0\refint\StrategyModel.dll
+E:\GitProject\DesignModel\DesignModel\StrategyModel\obj\Debug\net6.0\StrategyModel.pdb
+E:\GitProject\DesignModel\DesignModel\StrategyModel\obj\Debug\net6.0\StrategyModel.genruntimeconfig.cache
+E:\GitProject\DesignModel\DesignModel\StrategyModel\obj\Debug\net6.0\ref\StrategyModel.dll
