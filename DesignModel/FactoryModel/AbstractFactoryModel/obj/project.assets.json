@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitProject\\DesignModel\\DesignModel\\AbstractFactoryModel\\AbstractFactoryModel.csproj",
+      "projectUniqueName": "E:\\GitProject\\DesignModel\\DesignModel\\FactoryModel\\AbstractFactoryModel\\AbstractFactoryModel.csproj",
       "projectName": "AbstractFactoryModel",
-      "projectPath": "E:\\GitProject\\DesignModel\\DesignModel\\AbstractFactoryModel\\AbstractFactoryModel.csproj",
+      "projectPath": "E:\\GitProject\\DesignModel\\DesignModel\\FactoryModel\\AbstractFactoryModel\\AbstractFactoryModel.csproj",
       "packagesPath": "C:\\Users\\12948\\.nuget\\packages\\",
-      "outputPath": "E:\\GitProject\\DesignModel\\DesignModel\\AbstractFactoryModel\\obj\\",
+      "outputPath": "E:\\GitProject\\DesignModel\\DesignModel\\FactoryModel\\AbstractFactoryModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\12948\\AppData\\Roaming\\NuGet\\NuGet.Config",
